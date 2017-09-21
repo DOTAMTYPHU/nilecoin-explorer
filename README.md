@@ -1,2 +1,2 @@
-# nilecoin-explorer
-Open Source Nilecoin Explorer
+# What is Nilecoin Explorer
+Coming soon
